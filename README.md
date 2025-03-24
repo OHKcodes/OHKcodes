@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OHKcodes
 - 👀 I’m interested in coding and developing 
 - 🌱 I’m currently learning unity and some other computer languages 
-- 📫 How to reach me though my linkeden profile 
+- 📫 How to reach me  , - though my linkeden profile 
 - 😄 Pronouns: she /her 
 - ⚡ Fun fact: i m in 1st semester 
 
