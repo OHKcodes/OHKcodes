@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Code Store</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #eee;
+            padding: 10px;
+        }
+
+        nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            text-align: center; /* Center the navigation items */
+        }
+
+        nav li {
+            display: inline;
+            margin: 0 15px;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .project {
+            border: 1px solid #ddd;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+            display: flex; /* Use flexbox for layout */
+            align-items: center; /* Vertically align items */
+        }
+
+        .project img {
+            max-width: 150px;
+            margin-right: 10px;
+        }
+
+        .project-details {
+            flex-grow: 1; /* Allow details to expand */
+        }
+
+        .project h3 {
+          margin-top: 0; /* remove default h3 margin */
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+            position: relative; /* or absolute if you want it at the very bottom */
+            bottom: 0; /* only if you want it at the very bottom */
+            width: 100%; /* only if you want it at the very bottom */
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Code Store</h1>
+        <p>Your source for quality coding projects</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Projects</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="projects">
+        <h2>Featured Projects</h2>
+
+        <div class="project">
+            <img src="placeholder.png" alt="Project 1">  <div class="project-details">
+                <h3>Project Title 1</h3>
+                <p>Short description of project 1.  Mention technologies used.</p>
+                <p>Price: $XX</p>
+                <button>Buy Now</button> </div>
+        </div>
+
+        <div class="project">
+            <img src="placeholder.png" alt="Project 2"> <div class="project-details">
+                <h3>Project Title 2</h3>
+                <p>Short description of project 2. Mention technologies used.</p>
+                <p>Price: $XX</p>
+                <button>Buy Now</button>
+            </div>
+        </div>
+
+        </section>
+
+    <footer>
+        <p>&copy; 2023 Code Store. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
