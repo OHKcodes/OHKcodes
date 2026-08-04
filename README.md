@@ -1,6 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Omamah%20Hayah%20Khan&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full-Stack%20%26%20Mobile%20Developer%20%E2%80%A2%20CS%20Student&descAlignY=62&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Omamah%20Hayah%20Khan&fontSize=38&fontColor=ffffff&animation=fadeIn)
+
+### AI/ML Engineer • Full-Stack & Mobile Developer • CS Student
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -41,7 +43,11 @@ class Omamah:
 
 ### ⚡ Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=python,java,js,flutter,dart,c,cpp,react,nodejs,supabase,azure,mssql,qt,unity,git,github,vscode&perline=9)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,js,flutter,dart,c,cpp,react,nodejs,supabase,azure,mssql,qt,unity,git,github,vscode&perline=9">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,js,flutter,dart,c,cpp,react,nodejs,supabase,azure,mssql,qt,unity,git,github,vscode&perline=9&theme=light">
+  <img src="https://skillicons.dev/icons?i=python,java,js,flutter,dart,c,cpp,react,nodejs,supabase,azure,mssql,qt,unity,git,github,vscode&perline=9" alt="Tech stack icons"/>
+</picture>
 
 </td>
 </tr>
@@ -51,17 +57,43 @@ class Omamah:
 
 <table align="center" width="100%">
 <tr>
-<td width="34%"><img src="https://github-readme-stats.vercel.app/api?username=OHKcodes&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%"/></td>
-<td width="33%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OHKcodes&layout=donut&theme=radical&hide_border=true" width="100%"/></td>
-<td width="33%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=OHKcodes&theme=radical&hide_border=true" width="100%"/></td>
+<td width="34%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=OHKcodes&show_icons=true&theme=radical&hide_border=true&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=OHKcodes&show_icons=true&theme=default&hide_border=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=OHKcodes&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%" alt="GitHub Stats"/>
+</picture>
+</td>
+<td width="33%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OHKcodes&layout=donut&theme=radical&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OHKcodes&layout=donut&theme=default&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OHKcodes&layout=donut&theme=radical&hide_border=true" width="100%" alt="Top Languages"/>
+</picture>
+</td>
+<td width="33%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=OHKcodes&theme=radical&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=OHKcodes&theme=default&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OHKcodes&theme=radical&hide_border=true" width="100%" alt="Streak Stats"/>
+</picture>
+</td>
 </tr>
 </table>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OHKcodes&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff6b9d&line=ff6b9d&point=ffffff)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=OHKcodes&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff6b9d&line=ff6b9d&point=ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=OHKcodes&theme=github-compact&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OHKcodes&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff6b9d&line=ff6b9d&point=ffffff" alt="Activity Graph"/>
+</picture>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=OHKcodes&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=OHKcodes&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=OHKcodes&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8">
+  <img src="https://github-profile-trophy.vercel.app/?username=OHKcodes&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
+</picture>
 
 </div>
 
@@ -94,9 +126,13 @@ class Omamah:
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/OHKcodes/OHKcodes/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OHKcodes/OHKcodes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OHKcodes/OHKcodes/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/OHKcodes/OHKcodes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</picture>
 
-<sub>⚠️ Blank until the workflow below runs once — see setup note</sub>
+<sub>⚠️ Blank until the workflow runs once — see setup note</sub>
 
 ---
 
