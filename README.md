@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi there <br>Its Omamah Hayah Khan 
 
 
@@ -16,3 +16,4 @@ Hi there <br>Its Omamah Hayah Khan
 [![](https://komarev.com/ghpvc/?username=OHKcodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
