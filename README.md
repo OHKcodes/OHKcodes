@@ -30,12 +30,16 @@ class Omamah:
     location  = "Pakistan 🇵🇰"
     education = "BS Computer Science, PAF-IAST ('28)"
 
-    currently_learning = ["AI Agents", "System Design", "Cloud"]
+    currently_learning = ["AI Agents", "System Design","Automation", "Cloud"]
     passions   = ["Backend", "Machine Learning",
                   "UI Design", "Automation"]
 
     shipped   = "FoodZen — live app, 500+ active users"
-    fun_fact  = "I enjoy turning ideas into real products."
+    shipped   = "Buisness Management system keeps track
+ of Capital,profit ,loss,and then prints complete report. "
+    shipped   = "KSB-Pumps,5s Audit System App that allows
+admin and users to see each other audit reports and images. "
+   
 ```
 
 </td>
@@ -89,14 +93,6 @@ class Omamah:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OHKcodes&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff6b9d&line=ff6b9d&point=ffffff" alt="Activity Graph"/>
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=OHKcodes&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=OHKcodes&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8">
-  <img src="https://github-profile-trophy.vercel.app/?username=OHKcodes&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
-</picture>
-
-</div>
-
 ---
 
 ### 🚀 Featured Work
@@ -110,19 +106,6 @@ class Omamah:
 | 🩺 **PrismCare** | Caregiver activity monitoring app — live, data-driven alert dashboards | Figma, HTML/CSS |
 | 🍽️ **Uplynk** | Cloud SaaS restaurant management platform for Pakistan & the Gulf | JavaScript, HTML/CSS |
 
-### 📌 Pinned Repos
-
-<table align="center" width="100%">
-<tr>
-<td width="33%"><a href="https://github.com/OHKcodes/Codes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OHKcodes&repo=Codes&theme=radical&hide_border=true" width="100%"/></a></td>
-<td width="33%"><a href="https://github.com/OHKcodes/OS-Memory-Scheduling-Visulaizzer-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OHKcodes&repo=OS-Memory-Scheduling-Visulaizzer-&theme=radical&hide_border=true" width="100%"/></a></td>
-<td width="33%"><a href="https://github.com/OHKcodes/Clone_Friend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OHKcodes&repo=Clone_Friend&theme=radical&hide_border=true" width="100%"/></a></td>
-</tr>
-</table>
-
----
-
-<div align="center">
 
 ### 🐍 Contribution Snake
 
