@@ -101,7 +101,6 @@ admin and users to see each other audit reports and images. "
 |---|---|---|
 | 🍔 **FoodZen** | Live food ordering platform — 500+ active users, 30+ daily orders | Flutter, Supabase |
 | 📚 **BookBadli** | Real-time book exchange marketplace — chat, push notifications, location listings | Flutter, Supabase |
-| ✈️ **Aircraft Fueling Interface** | Touch-tablet GUI for an aircraft engine module — serial comms, ruggedized hardware | Python, Qt |
 | 📊 **Inventory & Sales Dashboard** | Offline Windows desktop app — profit/loss analytics, low-stock alerts | Flutter, SQLite |
 | 🩺 **PrismCare** | Caregiver activity monitoring app — live, data-driven alert dashboards | Figma, HTML/CSS |
 | 🍽️ **Uplynk** | Cloud SaaS restaurant management platform for Pakistan & the Gulf | JavaScript, HTML/CSS |
