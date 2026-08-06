@@ -19,10 +19,6 @@
 
 </div>
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
 ### 👩🏻‍💻 About Me
 
 ```python
@@ -30,68 +26,18 @@ class Omamah:
     location  = "Pakistan 🇵🇰"
     education = "BS Computer Science, PAF-IAST ('28)"
 
-    currently_learning = ["AI Agents", "System Design","Automation", "Cloud"]
+    currently_learning = ["AI Agents", "System Design", "Cloud"]
     passions   = ["Backend", "Machine Learning",
                   "UI Design", "Automation"]
 
-    shipped   = "FoodZen — live app, 500+ active users"
-    shipped   = "Buisness Management system keeps track
- of Capital,profit ,loss,and then prints complete report. "
-    shipped   = "KSB-Pumps,5s Audit System App that allows
-admin and users to see each other audit reports and images. "
-   
+    shipped = "FoodZen — live app, 500+ active users"
+    shipped = "Business Management System — tracks capital, profit, loss, and prints reports"
+    shipped = "KSB-Pumps 5S Audit System App — admins and users share audit reports and images"
 ```
-
-</td>
-<td width="50%" valign="top">
 
 ### ⚡ Tech Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,js,flutter,dart,c,cpp,react,nodejs,supabase,azure,mssql,qt,unity,git,github,vscode&perline=9">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,js,flutter,dart,c,cpp,react,nodejs,supabase,azure,mssql,qt,unity,git,github,vscode&perline=9&theme=light">
-  <img src="https://skillicons.dev/icons?i=python,java,js,flutter,dart,c,cpp,react,nodejs,supabase,azure,mssql,qt,unity,git,github,vscode&perline=9" alt="Tech stack icons"/>
-</picture>
-
-</td>
-</tr>
-</table>
-
----
-
-<table align="center" width="100%">
-<tr>
-<td width="34%">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=OHKcodes&show_icons=true&theme=radical&hide_border=true&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=OHKcodes&show_icons=true&theme=default&hide_border=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=OHKcodes&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%" alt="GitHub Stats"/>
-</picture>
-</td>
-<td width="33%">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OHKcodes&layout=donut&theme=radical&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OHKcodes&layout=donut&theme=default&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OHKcodes&layout=donut&theme=radical&hide_border=true" width="100%" alt="Top Languages"/>
-</picture>
-</td>
-<td width="33%">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=OHKcodes&theme=radical&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=OHKcodes&theme=default&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OHKcodes&theme=radical&hide_border=true" width="100%" alt="Streak Stats"/>
-</picture>
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=OHKcodes&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff6b9d&line=ff6b9d&point=ffffff">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=OHKcodes&theme=github-compact&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OHKcodes&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff6b9d&line=ff6b9d&point=ffffff" alt="Activity Graph"/>
-</picture>
+![Skills](https://skillicons.dev/icons?i=python,java,js,flutter,dart,c,cpp,react,nodejs,supabase,azure,mssql,git,vscode)
 
 ---
 
@@ -101,10 +47,21 @@ admin and users to see each other audit reports and images. "
 |---|---|---|
 | 🍔 **FoodZen** | Live food ordering platform — 500+ active users, 30+ daily orders | Flutter, Supabase |
 | 📚 **BookBadli** | Real-time book exchange marketplace — chat, push notifications, location listings | Flutter, Supabase |
-| 📊 **Inventory & Sales Dashboard** | Offline Windows desktop app — profit/loss analytics, low-stock alerts | Flutter, SQLite |
+| ✈️ **Aircraft Fueling Interface** | Touch-tablet GUI for an aircraft engine module — serial comms, ruggedized hardware | Python, Qt |
+| 📊 **Business Management System** | Tracks capital, profit, and loss and prints complete reports | Flutter, SQLite |
+| 🏭 **KSB-Pumps 5S Audit App** | Digitized audit system — admins and users share reports and images | — |
 | 🩺 **PrismCare** | Caregiver activity monitoring app — live, data-driven alert dashboards | Figma, HTML/CSS |
 | 🍽️ **Uplynk** | Cloud SaaS restaurant management platform for Pakistan & the Gulf | JavaScript, HTML/CSS |
 
+### 📌 Pinned Repos
+
+- [**Codes**](https://github.com/OHKcodes/Codes) — C++
+- [**OS-Memory-Scheduling-Visulaizzer-**](https://github.com/OHKcodes/OS-Memory-Scheduling-Visulaizzer-) — TypeScript
+- [**Clone_Friend**](https://github.com/OHKcodes/Clone_Friend) — a configurable AI companion you can chat and text with
+
+---
+
+<div align="center">
 
 ### 🐍 Contribution Snake
 
@@ -114,7 +71,7 @@ admin and users to see each other audit reports and images. "
   <img src="https://raw.githubusercontent.com/OHKcodes/OHKcodes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </picture>
 
-<sub>⚠️ Blank until the workflow runs once — see setup note</sub>
+<sub>⚠️ Blank until the snake.yml workflow runs once — see setup note</sub>
 
 ---
 
