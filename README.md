@@ -47,10 +47,8 @@ class Omamah:
 |---|---|---|
 | 🍔 **FoodZen** | Live food ordering platform — 500+ active users, 30+ daily orders | Flutter, Supabase |
 | 📚 **BookBadli** | Real-time book exchange marketplace — chat, push notifications, location listings | Flutter, Supabase |
-| ✈️ **Aircraft Fueling Interface** | Touch-tablet GUI for an aircraft engine module — serial comms, ruggedized hardware | Python, Qt |
 | 📊 **Business Management System** | Tracks capital, profit, and loss and prints complete reports | Flutter, SQLite |
 | 🏭 **KSB-Pumps 5S Audit App** | Digitized audit system — admins and users share reports and images | — |
-| 🩺 **PrismCare** | Caregiver activity monitoring app — live, data-driven alert dashboards | Figma, HTML/CSS |
 | 🍽️ **Uplynk** | Cloud SaaS restaurant management platform for Pakistan & the Gulf | JavaScript, HTML/CSS |
 
 ### 📌 Pinned Repos
