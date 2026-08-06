@@ -37,7 +37,7 @@ class Omamah:
 
 ### ⚡ Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=python,java,js,flutter,dart,c,cpp,react,nodejs,supabase,azure,mssql,git,vscode)
+![Skills](https://skillicons.dev/icons?i=python,java,js,flutter,dart,c,cpp,react,nodejs,supabase,azure,mssql,vscode)
 
 ### 📈 Activity Graph
 
