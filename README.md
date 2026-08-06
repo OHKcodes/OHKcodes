@@ -39,6 +39,14 @@ class Omamah:
 
 ![Skills](https://skillicons.dev/icons?i=python,java,js,flutter,dart,c,cpp,react,nodejs,supabase,azure,mssql,git,vscode)
 
+### 📈 Activity Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=OHKcodes&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff6b9d&line=ff6b9d&point=ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=OHKcodes&theme=github-compact&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OHKcodes&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff6b9d&line=ff6b9d&point=ffffff" alt="Activity Graph" width="100%"/>
+</picture>
+
 ---
 
 ### 🚀 Featured Work
