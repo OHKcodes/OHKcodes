@@ -49,27 +49,21 @@ class Omamah:
 
 ---
 
-### 🚀 Featured Work
+###  Featured Work
 
 | Project | Description | Stack |
 |---|---|---|
-| 🍔 **FoodZen** | Live food ordering platform — 500+ active users, 30+ daily orders | Flutter, Supabase |
-| 📚 **BookBadli** | Real-time book exchange marketplace — chat, push notifications, location listings | Flutter, Supabase |
-| 📊 **Business Management System** | Tracks capital, profit, and loss and prints complete reports | Flutter, SQLite |
-| 🏭 **KSB-Pumps 5S Audit App** | Digitized audit system — admins and users share reports and images | — |
-| 🍽️ **Uplynk** | Cloud SaaS restaurant management platform for Pakistan & the Gulf | JavaScript, HTML/CSS |
-
-### 📌 Pinned Repos
-
-- [**Codes**](https://github.com/OHKcodes/Codes) — C++
-- [**OS-Memory-Scheduling-Visulaizzer-**](https://github.com/OHKcodes/OS-Memory-Scheduling-Visulaizzer-) — TypeScript
-- [**Clone_Friend**](https://github.com/OHKcodes/Clone_Friend) — a configurable AI companion you can chat and text with
+|  **FoodZen** | Live food ordering platform — 500+ active users, 30+ daily orders | Flutter, Supabase |
+|  **BookBadli** | Real-time book exchange marketplace — chat, push notifications, location listings | Flutter, Supabase |
+|  **Business Management System** | Tracks capital, profit, and loss and prints complete reports | Flutter, SQLite |
+|  **KSB-Pumps 5S Audit App** | Digitized audit system — admins and users share reports and images | — |
+|  **Uplynk** | Cloud SaaS restaurant management platform for Pakistan & the Gulf | JavaScript, HTML/CSS |
 
 ---
 
 <div align="center">
 
-### 🐍 Contribution Snake
+###  Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OHKcodes/OHKcodes/output/github-contribution-grid-snake-dark.svg">
